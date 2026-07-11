@@ -1,51 +1,165 @@
-<h1 align="center">Hi 👋, I'm Omkar Deshmukh</h1>
+# <h1 align="center">Hi 👋, I'm Omkar Deshmukh</h1>
+
+<h3 align="center">
+Full Stack Java Developer • MCA Student • AI & ML Enthusiast • Open Source Learner
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=MCA+Student;Full+Stack+Developer;Machine+Learning+Learner;React+%7C+Python+%7C+Java&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Java+%7C+Spring+Boot+Developer;React+%7C+JavaScript+Developer;Python+%7C+Machine+Learning;Data+Structures+%26+Algorithms;Always+Learning+New+Technologies+🚀" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 🎓 MCA Student
-💻 Full Stack Developer
-⚡ Learning Machine Learning
-🚀 Building React + Python Projects
+
+💻 Passionate Full Stack Java Developer
+
+🌱 Currently Learning
+
+- Spring Boot
+- React
+- Machine Learning
+- Data Structures & Algorithms
+- System Design
+
+❤️ Love building scalable applications
+
+⚡ Interested in
+
+- Web Development
+- Artificial Intelligence
+- Software Engineering
+- Backend Development
+- Cloud Technologies
 
 ---
 
-# 🌐 Connect With Me
+# 🛠 Tech Stack
 
-<p align="center">
-<a href="https://github.com/OmkarDeshmukh09">
-<img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white">
-</a>
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,php"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea,eclipse"/>
+</p>
+
+## AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Featured Projects
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,mongodb,html,css,javascript,git,github,vscode"/>
-</p>
+## ❤️ AIMatchMaker – Matrimony Platform
+
+✔ React
+
+✔ Spring Boot
+
+✔ MongoDB
+
+✔ Machine Learning Recommendation
+
+✔ Premium Membership
+
+✔ Admin Dashboard
+
+✔ Payment Integration
 
 ---
 
-# 📊 GitHub Stats
+## 📚 Data Structures in C
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmkarDeshmukh09&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarDeshmukh09&layout=compact&theme=tokyonight"/>
-</p>
+- Arrays
+- Linked List
+- Stack
+- Queue
+- Tree
+- Graph
+- Searching
+- Sorting
+- Dynamic Memory
 
 ---
 
-# 🔥 GitHub Streak
+## ☕ Java Programming Repository
+
+100+ Java Programs
+
+Collections
+
+JDBC
+
+Multithreading
+
+File Handling
+
+Exception Handling
+
+Mini Projects
+
+---
+
+## 🐍 Python Programming
+
+Automation
+
+Machine Learning
+
+TensorFlow
+
+OpenCV
+
+Flask
+
+Data Analysis
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=OmkarDeshmukh09&theme=tokyonight">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OmkarDeshmukh09&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarDeshmukh09&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarDeshmukh09&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -53,25 +167,103 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarDeshmukh09&theme=tokyo-night">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarDeshmukh09&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=OmkarDeshmukh09&theme=tokyonight&row=1&column=7">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OmkarDeshmukh09&theme=tokyonight&margin-w=10&row=2&column=4"/>
+
 </p>
 
 ---
 
-# 👀 Profile Visitors
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=OmkarDeshmukh09&color=blue">
+
+<img src="https://raw.githubusercontent.com/OmkarDeshmukh09/OmkarDeshmukh09/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-⭐ Code • Learn • Build • Repeat 
+# 📚 Currently Learning
+
+✅ Advanced Java
+
+✅ Spring Boot Microservices
+
+✅ React
+
+✅ Machine Learning
+
+✅ System Design
+
+✅ Docker
+
+✅ Kubernetes
+
+---
+
+# 🎯 Goals for 2026
+
+🚀 Become a Full Stack Java Developer
+
+🌟 Contribute to Open Source
+
+📚 Master Data Structures & Algorithms
+
+🤖 Build AI-powered Applications
+
+☁ Learn Cloud Computing
+
+💼 Get placed in a Top Product-Based Company
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/OmkarDeshmukh09">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+# 💙 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=OmkarDeshmukh09&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> *"Code is not just written to work; it is crafted to inspire, solve problems, and create impact."*
+
+---
+
+<h3 align="center">
+⭐ Thank you for visiting my profile! ⭐
+</h3>
